@@ -94,7 +94,7 @@ main {
 }
 
 #list_area li {
-  width: 90%;
+  width: 85%;
   list-style: none;
   border-bottom: dotted 3px #eee;
   padding: 9px 0px 9px 18px;
@@ -105,7 +105,7 @@ main {
 }
 
 #list_area button {
-  margin: 10px 5px;
+  margin: 10px 5px 10px auto;
   width: 20px;
   height: 20px;
   color: #ddd;
